@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "knutson.com.vote",
+            "sha256_cert_fingerprints": [
+                "EC:A1:6F:D2:88:98:12:E2:26:8A:CF:5B:62:3A:A2:C1:EA:56:20:5F:B2:23:0E:E3:7B:F3:D0:40:3C:86:5B:F2"
+            ]
+        }
+    }
+]

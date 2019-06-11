@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "LLR2X48AU3.dev.knutson.representus",
+                "paths": [ "*",]
+            }
+        ]
+    }
+}

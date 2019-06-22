@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "LLR2X48AU3.dev.knutson.representus",
-                "paths": ["NOT /privacy", "*",]
+                "paths": ["NOT /privacy", "NOT /", "*",]
             }
         ]
     }
